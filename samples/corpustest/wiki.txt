@@ -1,0 +1,254 @@
+Hlavní strana
+
+
+Astronomie
+
+Astronomie, řecky αστρονομία z άστρον (astron) hvězda a νόμος (nomos) zákon, česky též hvězdářství, je věda, která se zabývá jevy za hranicemi zemské atmosféry. Zvláště tedy výzkumem vesmírných těles, jejich soustav, různých dějů ve vesmíru i vesmírem jako celkem.
+
+Astronomie se podobně jako další vědy začala rozvíjet ve starověku. Na území Babylonie však nebylo k popisu používáno již vynalezené geometrie (grafy). První se z astronomie rozvíjela astrometrie, zabývající se měřením poloh hvězd a planet na obloze. Tato oblast astronomie měla velký význam pro navigaci. Podstatnou částí astrometrie je sférická astronomie sloužící k popisu poloh objektů na nebeské sféře, zavádí souřadnice a popisuje významné křivky a body na nebeské sféře. Pojmy ze sférické astronomie se také používají při měření času.
+
+Další oblastí astronomie, která se rozvinula, byla nebeská mechanika. Zabývá se pohybem těles v gravitačním poli, například planet ve sluneční soustavě. Základem nebeské mechaniky jsou práce Keplera a Newtona.
+
+Aristotelés ve svém díle "O nebi" z roku 340 př. n. l. dokázal, že tvar Země musí být kulatý, jelikož stín Země na Měsíci je při zatmění vždy kulatý, což by při plochém tvaru Země nebylo možné. Řekové také zjistili, že pokud sledujeme Polárku z jižnějšího místa na Zemi, jeví se nám níže nad obzorem než pro pozorovatele ze severu, kterému se bude její poloha na obloze jevit výše. Aristotelés dále určil poloměr Země, který ale odhadl na dvojnásobek skutečného poloměru. V aristotelovském modelu Země stojí a Měsíc se Sluncem a hvězdami krouží kolem ní, a to po kruhových drahách.
+Myšlenky Aristotelovy rozvinul ve 2. století našeho letopočtu Klaudios Ptolemaios, který také stavěl Zemi do středu a další objekty nechal obíhat kolem ní ve sférách:
+Roku 1514 navrhl Mikuláš Koperník nový model, ve kterém bylo ve středu soustavy Slunce a planety obíhaly kolem něj po kruhových drahách, setkal se ale s problémy při pozorováních, objekty se nenacházely na správných souřadnicích.
+
+Roku 1609 zkonstruoval Galileo Galilei dalekohled, s jehož pomocí objevil čtyři měsíce obíhající kolem planety Jupiter, a tím dokázal Koperníkovu teorii o Slunci ve středu a planetách kroužících kolem.
+
+Johannes Kepler zaměnil kruhové dráhy planet za eliptické, čímž bylo dosaženo souladu s pozorovanými polohami těles.
+
+V roce 1687 vydal sir Isaac Newton knihu Philosophiae Naturalis Principia Mathematica o poloze těles v prostoru a čase a zákon obecné přitažlivosti, podle něhož jsou k sobě tělesa vázána gravitací, která závisí na hmotnosti těles a na jejich vzdálenosti. Z gravitačního zákona vychází eliptický pohyb planet.
+Roku 1929 studoval Edwin Hubble daleké galaxie, zjistil rudý posuv, který se zvětšuje se vzdáleností, to byl důkaz o rozpínání vesmíru. Fakt, že se od sebe objekty vzdalují, naznačuje, že někdy v minulosti byly objekty velmi blízko od sebe, tím se zrodily myšlenky o velkém třesku, místě a čase, kdy byl vesmír nekonečně malý a hustý.
+
+V letech 1905–1915 napsal Albert Einstein teorii relativity – speciální, ve které zavedl konečnou rychlost světla a obecnou relativitu o gravitaci, čase a prostoru ve velkých rozměrech. Na začátku 20. století vznikla kvantová teorie o chování elementárních částic.
+
+Čínská astronomie má velice dlouhou historii a dějepisci považují Číňany za "nejdůslednější a nejpřesnější pozorovatele nebeských jevů na světě před Araby."
+Jména hvězd později rozdělili do 28 kategorií ("panství", [říší?]) v dobách dynastie Šang (Shang) v čínské době bronzové a zřejmě se zformovaly za vlády Wu-Tinga (Wu Ding) (1339-1281 př. n. l.).
+
+Podrobné záznamy astrologických pozorování započaly v éře válek kolem 4. století př. n. l. a vzkvétaly dále od období dynastie Chan. Čínská astronomie byla rovníková soustředěná na podrobná pozorování hvězd z okolí pólu a byla založená na jiných principech než převládaly v západoevropské astronomii, kde východ a západ slunce zodiakálních souhvězdí tvořil základní ekliptický rámec.
+
+Některé prvky indické astronomie se dostaly do Číny při expanzi buddhismu po dynastii Chan (25–220 n.l.), ale nejpodrobnější vtělení indické astronomie nastalo za dynastie Tchang (Tang, 618-907), kdy mnozí indičtí astronomové přesídlili do čínského hlavního města a čínští učenci, jako velký tantrický buddhistický mnich a matematik Ji-Šing (Yi Xing) propracoval její systém. Astronomie islámského středověku úzce spolupracovala se svými čínskými kolegy během dynastie Juan (Yuan) a po období poměrného ústupu za dynastie Ming astronomie ožila podněty západní kosmologie a techniky po vzniku jezuitských misií. Dalekohled byl zaveden v 17. století. V roce 1669 byla pekingská observatoř přestavěna pod vedením Ferdinanda Verbiesta. Dnešní Čína pokračuje v astronomických aktivitách s mnoha hvězdárnami a vlastním vesmírným programem.
+
+Od novověku do současnosti se astronomie nesmírně rozšířila a vznikla celá řada nových oblastí výzkumu, které lze velmi zhruba rozdělit na pozorování a teorii, nebo podle objektu zájmu.
+
+Astronom, česky hvězdář, se zabývá zkoumáním vesmíru. Kromě profesionálních astronomů se astronomii věnuje i řada astronomů amatérských.
+
+Nejvýznamnějším zdrojem informací o vesmíru je elektromagnetické záření. Část jeho vlnových délek, vnímatelná očima, je světlo. Obory astronomického pozorování podle využívaných vlnových délek jsou
+
+
+Nejstarší a nejdůležitější je optická astronomie, využívající světlo. Rozvoj dalších oborů souvisel s vývojem techniky. Například radioastronomie se začala rozvíjet ve 30. letech 20. století, kdy Karl Guthe Jansky při zkoumání zdrojů šumu rušících rádiové hovory objevil rádiové emise centra naší Galaxie. Atmosféra Země mnoho vlnových délek účinně pohlcuje, takže gama a rentgenové pozorování se mohlo konat jen pomocí stratosférických balónů a výrazný rozvoj se dostavil teprve s pokrokem kosmonautiky.
+
+Ještě exotičtější je pozorování jiných částic než elektromagnetického záření.
+
+Hypotetická gravitační astronomie by měla pozorovat gravitační vlny. V současnosti jsou převažujícím způsobem detekce velké interferometry. První pozorování gravitačních vln proběhlo 14. září 2015 na americkém detektoru LIGO, i když nepřímé důkazy byly předloženy již dříve.
+
+Obecným teoretickým oborem je astrofyzika. Zabývá se fyzikou hvězd a mezihvězdné hmoty (hustotou, teplotou, chemickým složením atd.).
+
+Kosmologie studuje vesmír jako celek a zvláště jeho vznik, současný a budoucí vývoj.
+
+Astrobiologie se zabývá možnostmi existence života ve vesmíru.
+
+
+
+Astronomie má nejužší vztah s fyzikou. Astronomická teorie je v podstatě fyzika astronomických systémů. Naopak astronomické systémy jsou pro velkou část fyzikální teorie nejdůležitější „laboratoří“, přirozeně především ve velkých prostorových a časových měřítkách se projevuje gravitace a testuje obecná teorie relativity. Ve vesmíru se vyskytují i extrémní podmínky, které nejsou zatím dosažitelné v laboratořích, například tlak, hustota, teplota, magnetické pole a další.
+
+Významný vztah má astronomie i k religionistice.
+
+
+
+
+Biologie
+
+Biologie (z řeckého ' jako život a ' jako věda – tedy životověda – věda zkoumající život) v nejširším slova smyslu je vědní obor zabývající se organismy a vším, co s nimi souvisí, od chemických dějů v organismech probíhajících na úrovni atomů a molekul, až po celé ekosystémy – tedy společenstva mnoha populací různých organismů a jejich vzájemné vztahy i vztahy k jejich životnímu prostředí.
+
+V užším slova smyslu bychom pak biologii mohli popsat jako vědu, zkoumající organismy od úrovně subcelulární, tedy od úrovně jednotlivých buněčných organel se vším, co s nimi souvisí, přes úrovně buněk, tkání, orgánů a jedinců až po úroveň populací, společenstev, ekosystémů a biomů.
+
+Slovo „biologie" (řecky βιολογία; ze slov βίος (život) a λόγος (slovo)) bylo zřejmě poprvé použito v díle Michaela Christopha Hanova – "Philosophiae naturalis sive physicae dogmaticae: Geologia, biologia, phytologia generalis et dendrologia", publikovaném v roce 1766. Termín „biologie“ tak, jak ho známe dnes, byl zaveden Jeanem-Baptistou Lamarckem (1744–1829). Historii biologie můžeme ovšem hledat už v dobách dávných lidských civilizací a klasických filozofů, jako způsob chápání života.
+
+Ačkoli pojetí biologie jako samostatného souvislého odvětví vzniklo v 19. století, biologie se objevila již v dobách antického Řecka a Říma, kde se živou přírodou zabývali Aristoteles a Claudius Galén. V jejich bádání pokračovali ve středověku arabští lékaři jako al-Jahiz, Avicenna, Avenzoar a Ibn al-Nafis. Během období renesance a začátkem novověku biologie jako věda pronikla i do Evropy. Významnými vědci byli v té době William Harvey a Andreas Vesalius, kteří prováděli pokusy a pozorování a Linné a Buffon, kteří začali zkoumat různorodost života a fosílie stejně jako vývoj a chování organismů.
+
+Na přelomu 18. a 19. století se biologie stala stále více přírodní vědou určenou pouze odborníkům. Badatelé jako Alexander von Humbolt zkoumali spolupráci mezi organismy a jejich životním prostředím. Nejvýznamnějším biologem 19. století je bezesporu Charles Darwin se svou teorií o evoluci na základě přírodního výběru. Ta se nejdříve setkávala s odporem společnosti, protože byla v rozporu s křesťanstvím, později však byla uznána jako pravdivá.
+
+Počátkem 20. století znovuobjevení práce Gregora Mendela vedlo k rapidnímu vzrůstu výzkumu genetiky Thomasem Morganem a jeho studenty a kolem roku 1930 kombinací populační genetiky a přírodního výběru v „novo-Darwinovské syntéze“. James D. Watson a Francis Crick objevili roku 1953 strukturu DNA, za což dostali v roce 1962 Nobelovu cenu za medicínu. Po celé dvacáté století probíhal výzkum genetického kódu od jeho rozluštění v roce 1966 až po postupné mapování genomů jednotlivých organismů, pokračující v 21. století.
+
+Je pět základů biologie.
+
+Pod biologii tedy můžeme zařadit, nebo nalézt její úzkou spojitost s následujícími vědními obory:
+
+a mnoho dalších specializovaných vědních disciplín.
+
+Molekulární biologie studuje biologické buněčné procesy na jejich molekulární úrovni. Například podstata dědičnosti se dá odhalit jen studiem její molekulární podstaty.
+Molekulární biologie popisuje biologické makromolekuly a jejich vzájemné funkční vztahy, přičemž zvláštní pozornost věnuje DNA, RNA a proteinům. Tato oblast molekulární biologie se nazývá molekulární genetika.
+Znalosti molekulární biologie jsou využívány v medicíně a genetickém inženýrství, ale i například v kriminalistice.
+Cytologie, neboli buněčná biologie studuje buňky, jejich stavbu, fyziologii, vlastnosti a chování ve vztahu k životním funkcím organismu. Je úzce provázána s molekulární biologii, organickou chemií, biochemií, biofyzikou, mikrobiologií, mikroskopií a histologií.
+Genetika je věda zabývající se geny, dědičností a proměnlivostí organismů. Každá buňka v sobě přechovává v chromozomech genetickou informaci reprezentovanou strukturou DNA.
+Vývojová biologie studuje růst a vývoj organismů. Vyvíjející se z embryologie, moderní vývojová biologie zkoumá genetické řízení růstu buněk a jejich rozdílností, jaký proces dává vznik tkáním, orgánům a celé anatomii.
+
+Fyziologie zkoumá mechanické, fyzické a biochemické procesy živých organismů. Fyziologie má dva hlavní obory, fyziologii rostlin a fyziologii živočichů, ale principy fyziologie jsou univerzální, ať je zkoumán jakýkoliv organismus. Například, co známe o buňce kvasinky, dá se použít i na lidskou buňku.
+Anatomie je důležité odvětví fyziologie a zabývá se funkcí orgánovými soustavami jako oběhovou, nervovou, dýchací a endokrinní. Studie těchto systémů se využívají v medicíně v disciplínách jako neurologie a imunologie.
+
+Evoluce je odpovědná za původ druhů, stejně jako za jejich změny v průběhu času a zahrnuje vědce z mnoha taxonomicky orientovaných oborů. Zpravidla to zahrnuje vědce specializované na obory jako mammalogie, ornitologie, botanika nebo herpetologie, kteří využívají poznatky o přírodním řádu k zodpovědění hlavních otázek ohledně evoluce. Evoluční biologie se zakládá na paleontologii, která užívá poznatky k určení způsobu a rychlosti evoluce a také k rozvoji oblastí jako populační genetika a teorie evoluce.
+
+Taxonomie se teoreticky i prakticky zabývá klasifikací druhů. Zařazuje organismy do jednotlivých kategorií (taxonů).
+Základní taxonomické kategorie jsou:
+Organismy se obvykle dělí do tří domén:
+Ekologie má několik významů. Ten původní definoval Ernst Haeckel v roce 1866 a znamená biologická věda, která se zabývá vztahem organismů a jejich prostředí a vztahem organismů navzájem. Ekologie má řadu oborů od obecné ekologie a globální ekologie k ekologii mikroorganismů, ekologie lesa a moří. Dle šíře zkoumaných objektů se ekologie dělí na ekologii jedince (autekologie), populací (demekologie), společenstev (synekologie) a biomů.
+Etologie se zabývá studiem chování živočichů, jejich vrozených a naučených dovedností. Prvním moderním etologem byl Charles Darwin, jehož kniha (v originále The Expression of the Emotions in Man and Animals) inspiovala řadu dalších etologů.
+Biogeografie studuje rozmístění organismů na Zemi, věnuje pozornost především tektonickým deskám, změně klimatu, migraci a kladistice.
+
+Obecná biologie je průřezové odvětví biologie, zkoumající obecné základy živých soustav. Jejím hlavním úkolem je integrovat poznatky a zákonitosti související s živými soustavami a definovat je na všech úrovních života. Je úzce spjata s tzv. teoretickou biologií, která popisuje biologické zákonitosti za pomoci matematického, kybernetického a logického modelování a s přispěním dalších exaktních věd (zejména fyziky a chemie).
+
+
+
+
+Filosofie
+
+Filosofie nebo filozofie, řecky φιλοσοφία, z φιλειν ("filein", mít rád, toužit po něčem) a σοφια ("sofía", moudrost, zdatnost) je soustavné, racionální a kritické zkoumání skutečnosti, světa a člověka, případně i toho, co je přesahuje (metafyzika). Hledání pravdivého poznání, smyslu a dobrého života prostředky reflexe, racionální argumentace a diskuse, která vyžaduje určité pojmy. Není to tedy jen akademická disciplina, ale také způsob života, který začíná údivem nebo zklamáním nad tradičními výklady věcí (Platón) a snaží se s tajemstvím světa a existence nějak vyrovnat.
+
+Myšlenky velkých filosofů nezastarávají a tím nejcitovanějším je dodnes Platón. Někteří filosofii charakterizovali takto:
+
+„Údiv je postoj člověka, který moudrost skutečně miluje, a není jiný počátek filosofie než tento.“ Platón
+
+„Údiv vedl lidi k filosofování – na počátku i dnes – a to tak, že se zarazili s údivem u nejbližších otázek a potom se pomalu zamýšleli i nad většími věcmi… A kdo se zamýšlí a diví, ten se domnívá, že neví.“ Aristotelés
+
+„Kdo chce hledat radost sám v sobě, nenajde ji jinde než ve filosofii.“ Aristotelés
+
+„Filosofie je péče (starost) o duši.“ Cicero
+
+„Studium filosofie není k tomu, abychom věděli, co se lidé domnívali, ale jak se to má s pravdou věcí.“ Tomáš Akvinský
+
+„Žít a nefilosofovat je jako mít zavřené oči a nikdy se ani nepokusit je otevřít.“ René Descartes
+
+Immanuel Kant vymezil úlohu filosofie třemi otázkami:
+„Co mohu vědět? Co mám činit? V co mohu doufat?“, které lze shrnout do jediné:
+„Co je člověk?“
+
+„Úkolem filosofie je pochopit to, co jest.“ G. W. F. Hegel
+
+„Zachytit hranice rozumu – jen to je pravá filosofie.“ Friedrich Nietzsche
+
+„Velká filosofie není filosofie bez chyb, ale beze strachu.“ Charles Péguy
+
+„Filosofie není nauka, nýbrž činnost. Filosofické dílo sestává podstatně z objasnění.“ Ludwig Wittgenstein
+
+Od věd, které kdysi z filosofie vzešly, se filosofie liší jednak širší, vlastně neomezenou oblastí témat, jednak volnější metodou. Moderní vědy se omezují na to, co lze bezpečně doložit, vyzkoušet experimentem, modelovat a měřit, a co tedy platí úplně pro každého (pokud příslušné metodě rozumí). Nemohou tedy hodnotit, ptát se na smysl své činnosti ani odpovídat na prosté otázky, jaké kladou třeba děti – například, co je věda, co je to pravda nebo proč se nemá lhát. Naopak od poezie a literatury se filosofie liší tím, že se musí snažit o určité pojmové vyjadřování, ale hlavně tím, že každé své tvrzení musí umět nějak obhájit, tedy vysvětlit, proč říká to, co říká.
+
+Všechny lidské kultury měly a mají svoji tradiční moudrost, vyprávění, básně a přísloví, která se v dané společnosti přijímají jako autorita. Na to, co říkají, se nelze zeptat „proč?“ Potíž začíná tam, kde na sebe dvě různé moudrosti narazí: která z nich teď platí? Právě v takové situaci řeckých měst vznikl někdy v 6. století př. n. l. nový způsob hledání či „touhy po moudrosti“ (filo-sofie), který se neopíral o Homéra ani Hésioda, nýbrž snažil se přijít věcem na kloub pozorováním, přemýšlením a argumentací, zkrátka vlastním rozumem a diskusí. Rozum je totiž všem lidem společný a – jak říká Descartes – „mezi lidi nejlépe rozdělen“. Pokud je ale kritický i sám k sobě, nedělá si nárok na definitivně platnou moudrost, nýbrž ví, že ji bude vždycky jen hledat.
+
+Filosofie v tomto užším slova smyslu se tedy vyznačuje tím, že žádný názor ani tvrzení nemůže přijmout jako nepochybný a musí se vždycky ptát: je to opravdu tak? A proč? Na druhé straně jí nic nebrání zabývat se jakýmkoli tématem, využívat jakýchkoli pramenů a inspirací, nejen poznávat a popisovat, ale také kritizovat a hodnotit.
+
+Ve 20. století se začal název filosofie používat v širším slova smyslu i pro vypracované systémy náboženské a školy moudrosti, a mluví se tedy i o filosofii indické, čínské nebo africké. V anglicky mluvící oblasti se běžně hovoří i o „filosofii“ ve významu např. firemní strategie nebo záměru a tento zvyk se přenáší i k nám.
+
+Filosofie nejsou definitivní odpovědi, ale přesto se po filosofii někdy vyžaduje, aby se neptala po smyslu života, ale rovnou jej stanovila. Jiří Michálek o tom píše: „Hovoří se také o filosofickém světovém názoru, ba dokonce si mnozí myslí, že takové vytvoření světového názoru je nejvyšším úkolem filosofie. Toto pojetí filosofie je v nefilosofické veřejnosti tak zakořeněno, že, pokud tomuto požadavku filosofie nedostojí, je považována za zbytečnou. Světový názor vždy nějak pozitivně a definitivně určuje jsoucna (říká, co jsou) včetně člověka, uspořádává zkušenost zcela určitým směrem a tomu vše podřizuje, a tím zužuje a uzavírá lidský život a odnímá mu jeho nesamozřejmost. Filosofie je naopak vždy tím, co otvírá, začátkem a svým tázáním staví člověka do otevřeného pole možností a překonává přitom vždy zároveň sebe samu.“
+
+Na rozdíl od jednotlivých věd, které se zpravidla vymezují také svojí specifickou metodou (matematickou, experimentální, historickou apod.), je filosofická metoda daleko volnější a začátečníkovi se může zdát, že žádná ani není. To je pravda potud, že filosofická práce se nedá popsat návodem, který by automaticky vedl k cíli. Na druhé straně filosofie vznikla právě tím, že na myšlení klade určité nároky. Tak filosofické myšlení má např.
+Naopak zde neplatí žádné jiné autority než přesvědčivost racionálního argumentu.
+Filosofie nedělá experimenty a neměří; snaží se spíš chápat a rozumět. Jejím zdrojem může být přímá zkušenost, ale často jsou to třeba staré texty, které se snaží pochopit a vykládat – někdy se mluví o hermeneutické metodě. Bývá pozadu za skutečností, kterou chce pochopit – proto říká Hegel, že „Minervina sova létá za soumraku.“ Filosof se může snažit postupovat deduktivně jako Sókratés, Spinoza nebo Kant, může pozorovat a srovnávat jako Aristotelés a může klást proti sobě protikladná stanoviska jako Tomáš Akvinský, nemůže se ale zbavit závislosti na jazyku: záleží i na tom, jak věci říká. Některá filosofická díla, například Platónova, Nietzschova, Sartrova nebo Heideggerova, mají blízko ke krásné literatuře. Někteří filosofové vytvářeli nová slova, aby se jejich pojmy nepletly, většina se ale snaží vystačit s běžným jazykem, protože se chce odvolávat na společnou lidskou zkušenost.
+
+Protože nevytváří definitivní a nepochybná tvrzení, nemá ani povahu kumulativního vědění, kde se jednotlivé poznatky prostě skládají k sobě. Na druhé straně by ale mělo být samozřejmé, že filosof zná stav diskuse k dané otázce, a to ne jen za posledních několik let. Pro dnešní medicínu má Hippokratés jen historický význam, kdežto pro filosofii je Platón stále aktuální; britský filosof Whitehead dokonce napsal, že celá filosofie je jen komentář k Platónovi. Tak je filosofie vždycky diskusí, často napříč staletími. Málokdy se stane, aby se nějaký skutečný problém filosoficky „vyřešil“; spíš se udržuje a možná prohlubuje, přizpůsobuje měnícím se podmínkám našeho života.
+
+Někdy se rozlišuje mezi "historickým" a "systematickým" přístupem k filosofii. Ve skutečnosti nejsou ani dějiny filosofie pouze dějinami, nýbrž také inspirací k vlastnímu myšlení, kdežto systematický výklad nějakého tématu obvykle vyžaduje vyložit i jeho minulost, původ. Vedle dějin filosofie k tomu často slouží i rozbor původu slov (etymologie), protože jazyk a slova jako stopy či sedimenty staleté lidské zkušenosti a přemýšlení často odhalují pozoruhodné souvislosti.
+
+Na rozdíl od většiny empirických věd, které kumulují nové poznatky a kde se tedy zpravidla pracuje jen s nejnovější, většinou časopiseckou literaturou, udržuje filosofie diskusi s celou svou historií. Klasická díla vycházejí znovu a znovu, v původním jazyce i v překladech, a problém s jejich citováním je tedy podstatně odlišný. I když se většina filosofické literatury cituje běžným způsobem (např. autor, název, vydavatel, místo a rok, stránka), u některých nejvýznamnějších autorů se cituje způsobem, který na vydání nezávisí.
+
+V antice se básně a divadelní hry citovaly např. číslem zpěvu a verše (Homér), podobně se dodnes cituje i Shakespeare (název, jednání, výstup) nebo Bible (kniha, kapitola, verš). Díla Tomáše Akvinského se také citují názvem díla, případně svazkem, a u jeho sum se uvádí číslo otázky (q. nebo "quaest".), článku v ní (a. nebo "art".), případně i bližší určení místa (např. "resp". = odpověď); např. „STh Ia. IIae, q. XV., a. 2“ znamená: "Summa theologica", první část druhého dílu, otázka 15, článek 2. Totéž místo lze citovat také stručněji jako „STh II. I. XV. 2“.
+
+Pro díla Platónova a Aristotelova se za základ bere tzv. editio princeps (hlavní vydání), jeho stránky příp. sloupce. U Platóna je to vydání pařížského vydavatele H. Étienne (latinsky Stephanus) z roku 1578, jehož stránkování se u lepších vydání a překladů uvádí na okraji ("in margine"). Přesnější určení místa umožňují buď písmena a – e, která zhruba označují pětiny stránky, nebo údaj sloupce a řádku podle oxfordského vydání J. Burneta. Tak na začátek dialogu "Prótagorás" se odkáže citací „Prot 309a“ nebo „Prot 309a1“. Pro dílo Aristotelovo je základem berlínské vydání A. I. Bekkera z let 1816–1823. Na začátek "Etiky Nikomachovy" se odkáže jako „Et. Nic. (nebo EN) 1094a1“, což znamená stranu 1094, první sloupec, první řádek. Starší literatura ovšem cituje číslo knihy, kapitoly a věty.
+
+Podobně je tomu i s dalšími významnými autory. Tak se Descartes cituje podle souborného vydání Adama a Tanneryho z let 1897–1913 (AT díl, stránka), Kant podle „Akademie-Ausgabe“, Berlín (AA svazek, stránka), Nietzsche podle kritického vydání díla a dopisů (KGW, KGB) nebo podle příručního vydání (KSA, KSB), obojí od Colliho a Montinariho. Zvyk uvádět na okraji stránky prvního vydání se zachovává také u Heideggerova „Bytí a času“ (1927).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lingvistika
+
+Lingvistika (dříve psáno "linguistika") neboli jazykověda je věda zkoumající přirozený jazyk. Lze ji dělit na obecnou lingvistiku, aplikovanou lingvistiku, gramatiku a na jazykovědy jednotlivých jazyků nebo jejich skupin. Mezi ně patří např. anglická filologie neboli anglistika, dále např. bohemistika, germanistika, slovakistika, lusitanistika, turkologie; afrikanistika apod. (pro jejich seznam viz článek Filologie). Označení filologie ovšem znamená široce pojaté studium jazyka, literatury i kulturních, historických a zeměpisných specifik dané oblasti (tzv. reálie). Lingvistiku je také možné chápat jako soubor jednotlivých jazykovědných disciplín (především fonologie, morfologie, lexikologie, syntaxe a textové lingvistiky). Jazykem se zabývá také mnoho dalších vědeckých disciplín, například psychologie, informatika, filosofie, biologie, anatomie člověka, sociologie, antropologie a další. Od 2. poloviny 20. století také vznikají hraniční jazykovědné disciplíny, jako je psycholingvistika, sociolingvistika, neurolingvistika aj. Roztříštěnost jazykověd však není sjednocována, ale jde spíše o paralelní disciplíny.
+
+
+Jazyk je komplexní systém a skládá se z řady podsystémů (někdy nazývaných "jazykové plány"), které se mohou navzájem do určité míry ovlivňovat. Deskriptivní a teoretická lingvistika se podle toho dělí do následujících kategorií (dle české lingvistické tradice).
+
+
+Lingvistika zahrnuje kromě obecné lingvistiky, která se zabývá jazykem jako takovým, také potenciálně otevřenou množinu podoborů, které zkoumají jednotlivé jazyky či jazykové rodiny (jednotlivé filologie). Příklady jsou bohemistika (čeština), anglistika (angličtina), sinologie (čínština), hispanistika (španělština), slovenistika (slovinština), či slavistika (slovanské jazyky), bantuistika (bantuské jazyky), turkologie atd. Nutno však dodat, že tyto termíny zpravidla charakterizují ani ne tak podobory lingvistiky, jako spíš podobory filologie. "Bohemista" může proto být i literární vědec či kulturolog.
+
+
+Teoretická lingvistika využívá základní vědeckou metodu - formuluje explicitní a testovatelné teorie a hypotézy, jejichž platnost následně ověřuje analýzou dat.
+
+
+
+Jazyk je velmi mnohotvárný jev a v závislosti na tom, z jakého úhlu k němu přistupujeme, můžeme lingvistiku zařadit do několika širších disciplín. Tyto druhy lingvistiky si nekonkurují, neboť přísně vzato zkoumají jiný jazykový objekt. Hranice mezi těmito "jazyky" a potažmo "lingvistikami", které je zkoumají, jsou ovšem neostré.
+
+
+
+
+
+
+Terminologie
+
+Terminologie je nauka o termínech, tj. o odborných názvech, a o způsobu jejich vytváření a sestavování do systémů.
+
+Výraz terminologie se častěji používá pro označení konkrétních systémů termínů, česky označovaných též slovem názvosloví, případně odborné názvosloví.
+
+
+
+Svou specifickou terminologii, respektive názvosloví mívají i mnohé někdy i úzce specializované lidské činnosti – má ho i činnost prováděná na Wikipedii, jež budiž tohoto tvrzení příkladem (viz termíny: "rozcestník", "článek", "šablona", "wikifizace", "pahýl", "seznam", "zdrojování" atd.)
+
+Názvosloví se během času přirozeně vyvíjí:
+
+
+
+
+
+Eugen Wüster
+
+Eugen Bernhard Wüster (10. října 1898 Wieselburg, Rakousko – 29. března 1977) byl rakouský jazykovědec, jeden z otců technické terminologie a normalizace.
+
+Byl synem průmyslníka, studoval elektrotechniku a promoval v roce 1927. V roce 1931 získal doktorát a v témže roce převzal vedení rodinného podniku (pily s elektrocentrálou a válcovnou). Továrna mu umožnila financovat mnohé vědecké projekty.
+
+Ve svých dílech o terminologii počítal s esperantem, později okcidentalem a interlinguou jako s mezinárodním normalizačním jazykem budoucnosti.
+
+Velké renomé získal ve vědeckých kruzích. Jeho dílo o normalizaci v technice přeložil Ernest Drezen do ruštiny (1935) a v následujícím roce sovětský normalizační výbor inicioval založení Technického Výboru ISA 37, zabývajícího se normalizací principů tvoření termínů a vytvářením odborných slovníků. Po druhé světové válce, když se ISA změnila na ISO, dosáhl znovuvytvoření komise jako ISO/TC 37 (terminologie: principy a koordinace). V roce 1971 inicioval ve Vídni založení organizace Infoterm, kterou vedl až do své smrti.
+
+Jako lexikograf spolupracoval na 1. vydání šestijazyčného Mezinárodního elektrotechnického slovníku ("International Electrotechnical Vocabulary", Londýn 1938). Dále se zabýval problémy bibliografických záznamů, reformou německého pravopisu, zajímalo ho Mezinárodní desetinné třídění, problémy informatiky, byl odborníkem na pily (habilitace 1952), redigoval vzorný odborný slovník na příkladu nástrojů ("The Machine Tool", Londýn 1968) a vyučoval na Zemědělské univerzitě ve Vídni. Zanechal mnoho nepublikovaných rukopisů na různá témata.
+
+V mládí aktivně pracoval v esperantském hnutí, později pro okcidental a interlinguu, a zanechal bohaté dílo.
+
+V poválečném období, jako průkopník technické normalizace, byl v kontaktu také s československým Úřadem pro normalizaci a měření a stál u zrodu mezinárodní organizace TermNet (Unesco).
+
+
+Turistika
+
+Turistika je zájmová činnost (sport, koníček, hobby) spočívající v krátkodobém cestování a poznávání prostředí, krajiny, památek, zvyků a lidí. Pak se turista vrací na místa svého obvyklého pobytu. Klasická turistika je pěší a spíše individuální, počátkem 20. století přibyla cykloturistika, později mototuristika a od poloviny 20. století turistika skupinová a organizovaná. Tím vzniká turistický průmysl a cestovní ruch jako stále významnější odvětví hospodářství. V ČR je turistika od 19. století velice oblíbená a komunita turistů rozšířená. Od roku 1888 mají čeští turisté svoji organizaci, Klub českých turistů (KČT), který udržuje na území České republiky hustou síť značených stezek pomocí turistických značek.
+
+Pěší putování do vzdálených krajin začíná patrně náboženskými poutěmi často na velké vzdálenosti (Mekka, řeka Ganga, Santiago de Compostela, Jeruzalém, Řím aj.), při nichž poutníci zároveň sbírali zajímavé zážitky a někdy je pak i publikovali. V české literatuře jsou nejstarší cestopisy z poutí do Jeruzaléma od Martina Kabátníka (1492) nebo Oldřicha Prefáta z Vlkanova (1547). Jinou početnou skupinu poutníků tvořili pocestní studenti a řemeslní tovaryši na vandru.
+
+Turistika v moderním smyslu slova vznikla koncem 18. století v souvislosti s romantismem a s objevem krás divoké přírody, zejména vysokých hor a přímořských krajů. Kolem roku 1800 se také poprvé objevuje slovo turistika, odvozené z francouzského "tour", okružní cesta, putování. Jedním z prvních slavných turistů v Čechách byl Karel Hynek Mácha. K rozvoji turistiky významně přispěly železnice, které turistům umožnily dopravovat se do vysokohorských oblastí a jiných zajímavých krajin, kde pak začaly vznikat turistické ubytovny, hotely a počátky turismu jako hospodářského odvětví. U nás hrála turistika významnou roli v poslední fázi národního obrození zejména ve vzdělaných vrstvách. K jejímu rozšíření přispělo i skautské hnutí.
+
+V průběhu 20. století se nejdříve rozšířila turistika po vodě a na kolech, od 30. let i v autě a na motorce. V poválečných letech pronikla turistika i mezi dělníky a začala se organizovat v poznávacích zájezdech a exkurzích, z nichž vznikl masový turismus, dovolené v horách a u moře. Po roce 1989 se otevřely cesty do celého světa, pro organizované zájezdy a pobyty i pro individuální turisty.
+
+Od 60. let 20. století se organizovaný cestovní ruch stává masovým jevem a jen v mezinárodním cestovním ruchu cestuje ročně téměř miliarda lidí. Vedle toho však trvá i klasická individuální turistika, pěší, cyklistická, motorizovaná i vodní a vznikají i nové formy turistického cestování, například autostop. Masově se rozšířila turistika mladých lidí a studentů, kteří se snaží cestovat co nejlevněji, využívají veřejnou dopravu, nocují pod širým nebem, pod stanem nebo využívají levné ubytování (např. hostely). Protože si tito turisté obvykle všechno nosí na zádech, vžilo se pro ně označení batůžkáři (anglicky "backpackers’').
+
+Lidé také čím dál více využívají levných letenek jak po Evropě, tak po světě. Díky akcím leteckých společností a chybách v rezervačních systémech se dá i do exotických destinací dostat za pár tisíc korun. Akční ceny nabízí i autobusoví a železniční dopravci a cestování je tak dnes dostupné téměř každému.
+
+Dalším trendem, který se v Česku rozšiřuje od roku 2013, je turistika naboso. Vznikají seskupení bosých turistů, spolek Bosá turistika, bosé parky či programy.
+
+Organizované turistické trasy na konkrétní témata získávají popularitu, napr. Stezka „Po stopách dobrého vojáka Švejka“, Cesta česko-polského přátelství, Hradní stezka a Evropská cesta cihlové gotiky. Poskytují snadný přístup k turistickým informacím.
+
+Turistika má mnoho různých podob, lze je dělit například obecně na rekreační a poznávací nebo na tuzemskou a zahraniční. Níže jsou uvedeny specializovanější odvětví turistiky dle různých aspektů, která ale nemusí být ostře vymezena a mohou se různě kombinovat.
+
